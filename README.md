@@ -1,7 +1,7 @@
 # CloudFlare Scan (ipv4 ipv6)  
 CloudFlare 扫描器 
 
-提示：本工具仅供学习和合法网络优化使用，请遵守当地法律法规。
+⚠️提示：本工具仅供学习和合法网络测速，请遵守当地法律法规，造成的一切后果自负。
 
 <img width="562" height="608" alt="cfs" src="https://github.com/user-attachments/assets/f6700c3a-484f-48d0-80b6-405f71987e45" />
 
